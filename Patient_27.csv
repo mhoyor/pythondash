@@ -1,4 +1,4 @@
-,Patient.ID,Date,Time,Contact.State
+,Patient_ID,Date,Time,Contact.State
 53502,26,10/7/2017,35:09.3,WORN
 53503,26,10/7/2017,40:05.9,NOT_WORN
 53504,26,10/7/2017,41:07.1,NOT_WORN
